@@ -37,7 +37,7 @@
 ```javascript
 const naman = {
     role: "AI Engineer | Full Stack Developer | Researcher",
-    current_role: {
+    past_roles: {
         intern: "AI Developer @ ThinkingStone — Voice AI & Autonomous Agents",
     },
     education: "B.Tech @ NIT Rourkela (2024-2028)",
@@ -130,7 +130,7 @@ const naman = {
 <td width="100%">
 
 #### 🤖 &nbsp;AI Developer Intern — ThinkingStone
-`June 2025 – Present` · *Remote*
+`June 2025 – August 2025` · *Remote*
 
 <blockquote>
 
