@@ -190,10 +190,4 @@ Equally comfortable solving DSA problems, designing REST APIs, fine-tuning LLMs,
   </picture>
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=150&section=footer" width="100%"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=100&section=footer"/>
