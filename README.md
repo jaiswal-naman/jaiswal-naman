@@ -1,16 +1,20 @@
-<!-- Header Wave Banner -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔮  NAMAN JAISWAL — AI ENGINEER  ::  NEON CYBERPUNK PROFILE           -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+<!-- HEADER WAVE -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NAMAN%20JAISWAL&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Architect%20%E2%80%A2%20MLOps%20%E2%80%A2%20LLMOps&descSize=18&descAlignY=58&descColor=C084FC" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:EC4899&height=230&section=header&text=NAMAN%20JAISWAL&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=34&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Architect%20%E2%80%A2%20MLOps&descSize=18&descAlignY=56&descColor=E0E7FF" />
 </div>
 
-<!-- Typing Animation -->
+<!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=700&height=70&lines=🧠+Building+Intelligent+Systems;⚡+LLMs+%7C+RAG+%7C+AI+Agents+%7C+MLOps;🚀+From+Research+Paper+to+Production;🔮+Turning+Data+into+Intelligence;🌐+Cloud+Native+AI+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=75&lines=%E2%9A%A1+Building+Autonomous+AI+Agents+That+Think%2C+Plan+%26+Act;%F0%9F%A7%A0+LLMs+%7C+RAG+%7C+Multi-Agent+Systems+%7C+Voice+AI;%F0%9F%9A%80+From+Research+Paper+to+Production+at+Scale;%F0%9F%94%AE+Turning+Neural+Networks+into+Real-World+Intelligence" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Badges Row -->
+<!-- STATUS BADGES -->
 <div align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=jaiswal-naman&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -19,124 +23,290 @@
     <img src="https://img.shields.io/github/followers/jaiswal-naman?style=for-the-badge&color=A855F7&labelColor=0D0D0D&logo=github&label=FOLLOWERS" alt="Followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20LLMs-blueviolet?style=for-the-badge&labelColor=0D0D0D" alt="Focus"/>
+  <a href="https://github.com/jaiswal-naman?tab=repositories">
+    <img src="https://img.shields.io/github/stars/jaiswal-naman?style=for-the-badge&color=06B6D4&labelColor=0D0D0D&logo=github&label=TOTAL+STARS&affiliations=OWNER" alt="Stars"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Building%20🔥-06B6D4?style=for-the-badge&labelColor=0D0D0D" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-EC4899?style=for-the-badge&labelColor=0D0D0D" alt="Focus"/>
 </div>
 
 <br/>
 
----
+<!-- ─── ABOUT ME ──────────────────────────────────────────────────── -->
 
-## 🤖 &nbsp;`whoami`
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500"/>
+</div>
 
-<img align="right" alt="AI Brain Animation" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ5NTc3YjZkYjJkNDRjZjE3NmYwNzQwNWY4NjkzN2JhYjZjYTczNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br/>
 
-```python
-#!/usr/bin/env python3
-# ╔══════════════════════════════════════════╗
-# ║         NAMAN JAISWAL  ::  AI ENGINEER   ║
-# ╚══════════════════════════════════════════╝
+```yaml
+# ╔══════════════════════════════════════════════════════════════╗
+# ║                 $ cat /etc/naman.conf                        ║
+# ╚══════════════════════════════════════════════════════════════╝
 
-class NamanJaiswal:
-    """Crafting intelligence, one model at a time."""
+name: Naman Jaiswal
+role: AI Engineer & Agentic AI Architect
+location: India 🇮🇳
 
-    def __init__(self):
-        self.name       = "Naman Jaiswal"
-        self.role       = "AI Engineer 🧠"
-        self.location   = "India 🇮🇳"
+currently_building:
+  - Multi-Agent Orchestration Pipelines
+  - Voice AI with Real-time Systems
+  - Production-grade LLM Applications
 
-        self.ai_stack   = [
-            "LLMs", "RAG", "AI Agents",
-            "LangChain", "LangGraph", "PyTorch"
-        ]
-        self.ops_stack  = [
-            "MLOps", "LLMOps",
-            "Docker", "Kubernetes", "Cloud"
-        ]
-        self.languages  = ["Python", "Go", "C++", "Rust"]
+expertise:
+  - Deep Learning & NLP
+  - LLM Development & Fine-tuning
+  - Autonomous Agent Design
+  - Computer Vision
+  - Conversational AI & Voice AI
+  - Real-time Systems & Production ML
 
-        self.currently  = "Building next-gen LLM pipelines 🔥"
-        self.learning   = "Agentic AI & LLMOps at scale 🌐"
-        self.fun_fact   = "I train models the way I train myself 💪"
-
-    def say_hi(self):
-        print("Let's build something intelligent! 🚀")
-
-me = NamanJaiswal()
-me.say_hi()
+philosophy: "Build AI that reasons, acts, and learns — autonomously."
 ```
 
-<br clear="both"/>
+<br/>
 
----
-
-## ⚡ &nbsp;Tech Arsenal
+<!-- ─── EXPERTISE BADGES ──────────────────────────────────────── -->
 
 <div align="center">
 
-### 🧠 &nbsp;AI · ML · Deep Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🔗 &nbsp;LLM Ecosystem
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-A855F7?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Vector DB](https://img.shields.io/badge/VectorDB-EC4899?style=for-the-badge&logo=pinecone&logoColor=white)
-
-### 💻 &nbsp;Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### ☁️ &nbsp;MLOps · LLMOps · Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![LLM Engineer](https://img.shields.io/badge/LLM%20Engineer-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-A855F7?style=for-the-badge&logo=probot&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge&logo=spacy&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-EE4C2C?style=for-the-badge&logo=opencv&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice%20AI-EC4899?style=for-the-badge&logo=audiomack&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Multi Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-FF6F00?style=for-the-badge&logo=buffer&logoColor=white)
+![Production ML](https://img.shields.io/badge/Production%20ML-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </div>
 
 ---
+
+<!-- ─── TECH STACK (SKILL ICONS) ─────────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;Tech Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,matlab,go,rust&perline=10&theme=dark" alt="Languages"/>
+  </a>
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,docker,kubernetes,aws,gcp,azure,redis,postgresql&perline=10&theme=dark" alt="ML & Cloud"/>
+  </a>
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,fastapi,flask,git,github,linux,vscode,graphql,supabase,anaconda&perline=10&theme=dark" alt="Tools"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ─── DETAILED SKILLS BY CATEGORY ──────────────────────────── -->
+
+<details>
+<summary><b>🧠 &nbsp;Machine Learning / AI</b> &nbsp;(click to expand)</summary>
+<br/>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🤖 &nbsp;Agentic AI & Autonomous Systems</b> &nbsp;(click to expand)</summary>
+<br/>
+<div align="center">
+
+![LangChain Agents](https://img.shields.io/badge/LangChain%20Agents-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AutoGPT](https://img.shields.io/badge/AutoGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![BabyAGI](https://img.shields.io/badge/BabyAGI-A855F7?style=flat-square&logo=probot&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-EC4899?style=flat-square&logo=probot&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![MetaGPT](https://img.shields.io/badge/MetaGPT-06B6D4?style=flat-square&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logo=meta&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-512BD4?style=flat-square&logo=microsoft&logoColor=white)
+![OpenAI Assistants](https://img.shields.io/badge/OpenAI%20Assistants%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![ReAct Pattern](https://img.shields.io/badge/ReAct%20Pattern-EE4C2C?style=flat-square&logo=probot&logoColor=white)
+![Tool Use](https://img.shields.io/badge/Tool%20Use%20%26%20Function%20Calling-1C3C3C?style=flat-square&logo=openai&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Orchestration-326CE5?style=flat-square&logo=buffer&logoColor=white)
+![Agent Memory](https://img.shields.io/badge/Agent%20Memory%20Systems-EC4899?style=flat-square&logo=pinecone&logoColor=white)
+![Task Planning](https://img.shields.io/badge/Task%20Planning%20%26%20Decomposition-06B6D4?style=flat-square&logo=probot&logoColor=white)
+![CoT](https://img.shields.io/badge/Chain%20of%20Thought-A855F7?style=flat-square&logo=openai&logoColor=white)
+![ToT](https://img.shields.io/badge/Tree%20of%20Thoughts-7C3AED?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🎙️ &nbsp;Voice AI & Real-time Systems</b> &nbsp;(click to expand)</summary>
+<br/>
+<div align="center">
+
+![LiveKit](https://img.shields.io/badge/LiveKit%20SFU-000000?style=flat-square&logo=webrtc&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Audio Pipeline](https://img.shields.io/badge/Audio%20Pipeline-EC4899?style=flat-square&logo=audiomack&logoColor=white)
+![Intent Parsing](https://img.shields.io/badge/Intent%20Parsing-06B6D4?style=flat-square&logo=dialogflow&logoColor=white)
+![Dialogue State](https://img.shields.io/badge/Dialogue%20State%20Management-A855F7?style=flat-square&logo=rasa&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>💻 &nbsp;Programming Languages</b> &nbsp;(click to expand)</summary>
+<br/>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>☁️ &nbsp;Cloud, DevOps & MLOps</b> &nbsp;(click to expand)</summary>
+<br/>
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-7B3AED?style=flat-square&logo=flydotio&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-0296D8?style=flat-square&logo=optuna&logoColor=white)
+![MCP Framework](https://img.shields.io/badge/MCP%20Framework-A855F7?style=flat-square&logo=anthropic&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-06B6D4?style=flat-square&logo=istio&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🗄️ &nbsp;Databases & Backend</b> &nbsp;(click to expand)</summary>
+<br/>
+<div align="center">
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-01C9A7?style=flat-square&logo=weaviate&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square&logo=databricks&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>📊 &nbsp;Data Science & Frameworks</b> &nbsp;(click to expand)</summary>
+<br/>
+<div align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🛠️ &nbsp;Developer Tools</b> &nbsp;(click to expand)</summary>
+<br/>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+</div>
+</details>
+
+---
+
+<!-- ─── GITHUB TROPHIES ──────────────────────────────────────── -->
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiswal-naman&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- ─── GITHUB STATS ─────────────────────────────────────────── -->
 
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiswal-naman&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF&count_private=true&include_all_commits=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiswal-naman&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=A855F7" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-naman&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=FFFFFF&langs_count=8" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-naman&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jaiswal-naman&theme=radical&hide_border=true&background=0D0D0D&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=A855F7&dates=AAAAAA&stroke=A855F7" width="68%"/>
+  <img src="https://streak-stats.demolab.com/?user=jaiswal-naman&hide_border=true&background=0D0D0D&ring=A855F7&fire=EC4899&currStreakNum=06B6D4&currStreakLabel=A855F7&sideNums=FFFFFF&sideLabels=A855F7&dates=888888&stroke=A855F720" width="70%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswal-naman&bg_color=0D0D0D&color=A855F7&line=06B6D4&point=EC4899&area=true&area_color=A855F720&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswal-naman&bg_color=0D0D0D&color=A855F7&line=06B6D4&point=EC4899&area=true&area_color=A855F720&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
 
 ---
+
+<!-- ─── PROFILE SUMMARY CARDS ────────────────────────────────── -->
+
+## 📈 &nbsp;Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswal-naman&theme=radical" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiswal-naman&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiswal-naman&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiswal-naman&theme=radical&utcOffset=5.5" width="32%"/>
+</div>
+
+---
+
+<!-- ─── CONTRIBUTION SNAKE ───────────────────────────────────── -->
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -150,7 +320,9 @@ me.say_hi()
 
 ---
 
-## 🌐 &nbsp;Connect
+<!-- ─── CONNECT ──────────────────────────────────────────────── -->
+
+## 🌐 &nbsp;Let's Connect
 
 <div align="center">
 
@@ -163,12 +335,21 @@ me.say_hi()
 
 ---
 
-<div align="center">
+<!-- ─── FOOTER ───────────────────────────────────────────────── -->
 
-### 💬 &nbsp;*"In God we trust. All others bring data."*
+<div align="center">
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║  "The best way to predict the future is to build it."       ║
+ ║                                    — Alan Kay               ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:EC4899&height=130&section=footer" width="100%"/>
 
 </div>
