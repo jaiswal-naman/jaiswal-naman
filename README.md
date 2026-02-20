@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Researcher;Multi-Agent+Systems+%E2%80%A2+Voice+AI+%E2%80%A2+LLM+Engineering;NTSE+Scholar+%E2%80%A2+State+Child+Scientist+%E2%80%A2+NIT+Rourkela" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=50&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Researcher;Multi-Agent+Systems+%E2%80%A2+Voice+AI+%E2%80%A2+LLM+Engineering;NTSE+Scholar+%E2%80%A2+State+Child+Scientist+%E2%80%A2+NIT+Rourkela" alt="Typing SVG" /></a>
 
 <br/>
 
