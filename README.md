@@ -104,16 +104,18 @@ const naman = {
 
 <h4>⚡ Impact Metrics</h4>
 
-| Metric | Impact |
-|:------:|:-------|
-| 🎙️ | Voice AI with **sub-100ms** latency |
-| 🚀 | **99.9%** uptime on edge deployment |
-| 🤖 | **20+ agents** built & deployed |
-| 🧠 | Built **GPT from scratch** (124M params) |
-| 👁️ | Vision Transformer for image→text |
-| 🏥 | **2-3x** real-time medical transcription |
-| 📊 | **94%** accuracy on spam detection |
-| 🐳 | Microservices with zero-downtime updates |
+| Project | Impact |
+|:-------:|:-------|
+| 🎙️ **RAG Voice AI** | Real-time voice agent with **sub-100ms** latency, Deepgram + ElevenLabs |
+| � **VoiceMon** | Production observability for Voice AI — Prometheus, Grafana dashboards |
+| 📄 **CogniDocs** | End-to-end RAG document intelligence — semantic search & conversational Q&A |
+| ⚡ **DistriNews** | Distributed Transformer training with PyTorch DDP at scale |
+| 🛒 **EcomIntelligence** | Real-time product assistant — RAG + MCP + live web scraping |
+| 🧠 **GPT from Scratch** | Full transformer architecture, 124M params, **94%** spam detection accuracy |
+| 👁️ **ViT Language Model** | Vision Transformer + decoder LM for image→text generation |
+| 🏥 **VetScribe AI** | Medical transcription SaaS — **2-3x** real-time speed, WCAG 2.2 compliant |
+| � **ThinkingStone** | Edge deployment with **99.9%** uptime, zero-downtime rolling updates |
+| 🤖 **Agents** | **20+ autonomous agents** built with ReAct, tool-use, multi-agent orchestration |
 
 </td>
 </tr>
