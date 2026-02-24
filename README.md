@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- GRADIENT HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=220&section=header&text=Naman%20Jaiswal&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20NIT%20Rourkela%20%7C%20Building%20Production-Grade%20AI&descSize=16&descColor=FFFFFF&descAlignY=62" />
+<!-- HEADER -->
+<h1>Naman Jaiswal</h1>
+<h3>AI Engineer | NIT Rourkela | Building Production-Grade AI</h3>
 
 <br/>
 
@@ -82,82 +83,52 @@ const naman = {
 
 </div>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<h4>🎖️ Achievement Board</h4>
+#### 🎖️ Achievement Board
 
 | Year | Achievement |
 |:----:|:------------|
-| 🏆 **2021** | **NTSE Scholar** — NCERT |
-| | Top 1000 out of 1M+ students |
-| | Two-stage national examination |
-| 🔬 **2019** | **State Child Scientist** |
-| | Dept. of Science & Technology, Govt. of India |
-| | National Children's Science Congress |
-| 📚 **2024** | **96.2% — CBSE Class 12th** |
-| | St. Thomas School, Chunar |
+| 🏆 **2021** | **NTSE Scholar** — NCERT · Top 1000 out of 1M+ students · Two-stage national examination |
+| 🔬 **2019** | **State Child Scientist** · Dept. of Science & Technology, Govt. of India · National Children's Science Congress |
+| 📚 **2024** | **96.2% — CBSE Class 12th** · St. Thomas School, Chunar |
 
-</td>
-<td width="50%" align="center">
+<br/>
 
-<h4>⚡ Impact Metrics</h4>
+#### ⚡ Impact Metrics
 
 | Project | Impact |
 |:-------:|:-------|
-| 🎙️ **RAG Voice AI** | Real-time voice agent with **sub-100ms** latency, Deepgram + ElevenLabs |
-| � **VoiceMon** | Production observability for Voice AI — Prometheus, Grafana dashboards |
-| 📄 **CogniDocs** | End-to-end RAG document intelligence — semantic search & conversational Q&A |
-| ⚡ **DistriNews** | Distributed Transformer training with PyTorch DDP at scale |
-| 🛒 **EcomIntelligence** | Real-time product assistant — RAG + MCP + live web scraping |
-| 🧠 **GPT from Scratch** | Full transformer architecture, 124M params, **94%** spam detection accuracy |
-| 👁️ **ViT Language Model** | Vision Transformer + decoder LM for image→text generation |
-| 🏥 **VetScribe AI** | Medical transcription SaaS — **2-3x** real-time speed, WCAG 2.2 compliant |
-| � **ThinkingStone** | Edge deployment with **99.9%** uptime, zero-downtime rolling updates |
-| 🤖 **Agents** | **20+ autonomous agents** built with ReAct, tool-use, multi-agent orchestration |
-
-</td>
-</tr>
-</table>
+| 🎙️ **RAG Voice AI** | Real-time voice agent, **sub-100ms** latency |
+| 📡 **VoiceMon** | Production observability for Voice AI |
+| 📄 **CogniDocs** | RAG document intelligence platform |
+| ⚡ **DistriNews** | Distributed Transformer training with DDP |
+| 🛒 **EcomIntelligence** | RAG + MCP product assistant |
+| 🧠 **GPT from Scratch** | 124M params, **94%** spam accuracy |
+| 👁️ **ViT Language Model** | Vision Transformer + decoder LM |
+| 🏥 **VetScribe AI** | Medical transcription, **2-3x** real-time |
+| 🏢 **ThinkingStone** | **99.9%** uptime, zero-downtime deploys |
+| 🤖 **Agents** | **20+ autonomous agents** built |
 
 ---
 
 ### 💼 &nbsp;Professional Journey
 
-<table>
-<tr>
-<td width="100%">
-
 #### 🤖 &nbsp;AI Developer Intern — ThinkingStone
 `June 2025 – August 2025` · *Remote*
 
-<blockquote>
-
-**🎙️ Voice AI & Autonomous Agent Systems**
-
-- Architected core AI voice agent logic — intent parsing, dialogue state management, intelligent fallback strategies
-- Built autonomous AI agents with **tool-use capabilities** using **ReAct pattern** for reasoning & action selection
-- Developed real-time audio pipelines with **LiveKit SFU** for dynamic multi-party voice sessions & agent handoffs
-- Created microservices using **Docker + MCP framework** for call orchestration, session metadata, and RPC workflows
-- Deployed on **Fly.io edge network** with auto-scaling, health checks, and zero-downtime rolling updates → **99.9% uptime**
-- Integrated **Supabase + WebSockets** for live ingestion, transcript storage, and agent memory persistence → **sub-100ms latency**
-
-</blockquote>
-
-</td>
-</tr>
-</table>
+> **🎙️ Voice AI & Autonomous Agent Systems**
+>
+> - Architected core AI voice agent logic — intent parsing, dialogue state management, intelligent fallback strategies
+> - Built autonomous AI agents with **tool-use capabilities** using **ReAct pattern** for reasoning & action selection
+> - Developed real-time audio pipelines with **LiveKit SFU** for dynamic multi-party voice sessions & agent handoffs
+> - Created microservices using **Docker + MCP framework** for call orchestration, session metadata, and RPC workflows
+> - Deployed on **Fly.io edge network** with auto-scaling, health checks, and zero-downtime rolling updates → **99.9% uptime**
+> - Integrated **Supabase + WebSockets** for live ingestion, transcript storage, and agent memory persistence → **sub-100ms latency**
 
 ---
 
 ### 🛠️ &nbsp;Tech Arsenal
 
-<table>
-<tr>
-<td valign="top" width="25%">
-
-**AI / ML / Deep Learning**
+#### **AI / ML / Deep Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -168,10 +139,7 @@ const naman = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 
-</td>
-<td valign="top" width="25%">
-
-**Agentic AI & LLM Engineering**
+#### **Agentic AI & LLM Engineering**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-A855F7?style=flat-square&logo=langchain&logoColor=white)
@@ -181,10 +149,7 @@ const naman = {
 ![DSPy](https://img.shields.io/badge/DSPy-FF6F00?style=flat-square&logo=python&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/Assistants_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-</td>
-<td valign="top" width="25%">
-
-**Full Stack & Backend**
+#### **Full Stack & Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
@@ -195,10 +160,7 @@ const naman = {
 ![REST API](https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-</td>
-<td valign="top" width="25%">
-
-**Cloud, DevOps & Infra**
+#### **Cloud, DevOps & Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -208,15 +170,7 @@ const naman = {
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-06B6D4?style=flat-square&logo=serverless&logoColor=white)
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
+#### **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -226,10 +180,7 @@ const naman = {
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-**Databases & Storage**
+#### **Databases & Storage**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -239,10 +190,7 @@ const naman = {
 ![Weaviate](https://img.shields.io/badge/Weaviate-01C9A7?style=flat-square&logo=weaviate&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square&logo=databricks&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-**Data Science & Tools**
+#### **Data Science & Tools**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -251,10 +199,6 @@ const naman = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 <details>
 <summary><b>🎙️ Voice AI & Real-time Systems</b></summary>
@@ -271,7 +215,7 @@ const naman = {
 <br/>
 <div align="center">
 
-`LangChain Agents` · `ReAct Pattern` · `Tool Use & Function Calling` · `Multi-Agent Orchestration` · `Agent Memory Systems (Vector DBs, Episodic Memory)` · `Task Planning & Decomposition` · `Chain-of-Thought Prompting` · `Tree-of-Thoughts` · `Agent Evaluation Frameworks` · `CrewAI` · `AutoGen` · `MetaGPT` · `LlamaIndex Agents` · `DSPy` · `OpenAI Assistants API` · `Agent Protocol` · `Cognitive Architectures`
+`LangChain Agents` · `ReAct Pattern` · `Tool Use & Function Calling` · `Multi-Agent Orchestration` · `Agent Memory Systems` · `Task Planning & Decomposition` · `Chain-of-Thought Prompting` · `Tree-of-Thoughts` · `Agent Evaluation Frameworks` · `CrewAI` · `AutoGen` · `MetaGPT` · `LlamaIndex Agents` · `DSPy` · `OpenAI Assistants API` · `Agent Protocol` · `Cognitive Architectures`
 
 </div>
 </details>
@@ -280,48 +224,21 @@ const naman = {
 
 ### 🎓 &nbsp;Education & Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### 🎓 &nbsp;Education
 
-<table>
-<tr>
-<td>
-
-**�️ National Institute of Technology (NIT) Rourkela**
-`Aug 2024 – May 2028`
+**🏛️ National Institute of Technology (NIT) Rourkela**  
+`Aug 2024 – May 2028`  
 B.Tech — Expected Graduation: 2028
 
-**🏫 St. Thomas School, Chunar**
-`Apr 2022 – Mar 2024`
+**🏫 St. Thomas School, Chunar**  
+`Apr 2022 – Mar 2024`  
 CBSE Board — **96.2%**
-
-</td>
-</tr>
-</table>
-
-</td>
-<td width="50%" valign="top">
 
 #### 📜 &nbsp;Certifications
 
-<table>
-<tr>
-<td>
-
-✅ **Complete Data Science, ML, DL, NLP Bootcamp** — Udemy
-✅ **Generative AI with LangChain & HuggingFace** — Udemy
+✅ **Complete Data Science, ML, DL, NLP Bootcamp** — Udemy  
+✅ **Generative AI with LangChain & HuggingFace** — Udemy  
 ✅ **Mathematics for Data Science & GenAI** — Udemy
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
 
 <details>
 <summary><b>📚 Relevant AI/ML Coursework</b></summary>
@@ -329,13 +246,13 @@ CBSE Board — **96.2%**
 
 | Domain | Courses |
 |:------:|:--------|
-| **Core AI/ML** | Machine Learning, Deep Learning, Reinforcement Learning, Statistical Learning Theory, Optimization Methods |
-| **Deep Learning** | Neural Networks, CNNs, RNNs, GANs, Variational Autoencoders |
-| **NLP & LLMs** | Natural Language Processing, Large Language Models & Transformers, Sequence Models, Text Mining |
-| **Agentic AI** | Multi-Agent Systems, Autonomous Agents & Planning, Knowledge Representation, Agent-Based Modeling |
-| **Computer Vision** | Computer Vision, Image Processing, Object Detection, Visual Learning & Recognition |
-| **Advanced** | RL for Robotics, Probabilistic Graphical Models, Federated Learning, MLOps, AI Ethics & Safety |
-| **Foundations** | Data Structures & Algorithms, Linear Algebra, Probability & Statistics, Distributed Systems |
+| **Core AI/ML** | Machine Learning, Deep Learning, RL, Statistical Learning Theory |
+| **Deep Learning** | Neural Networks, CNNs, RNNs, GANs, VAEs |
+| **NLP & LLMs** | NLP, LLMs & Transformers, Sequence Models, Text Mining |
+| **Agentic AI** | Multi-Agent Systems, Autonomous Agents, Knowledge Representation |
+| **Computer Vision** | CV, Image Processing, Object Detection, Visual Learning |
+| **Advanced** | RL for Robotics, PGMs, Federated Learning, MLOps, AI Ethics |
+| **Foundations** | DSA, Linear Algebra, Probability & Statistics, Distributed Systems |
 
 </details>
 
