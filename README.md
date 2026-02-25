@@ -67,7 +67,7 @@ const naman = {
     achievements: {
         ntse: "🏆 NTSE Scholar — Top 1000 out of 1M+ students nationwide",
         child_scientist: "🔬 State Child Scientist — Govt. of India",
-        school: "📚 96.2% in CBSE Class 12th"
+        school: "📚 96.2% in CBSE Class 10th"
     },
     philosophy: "Take AI from research papers → production systems"
 };
@@ -75,21 +75,7 @@ const naman = {
 
 ---
 
-### 🏆 &nbsp;Achievements & Recognition
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jaiswal-naman&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%"/>
-
-</div>
-
-#### 🎖️ Achievement Board
-
-| Year | Achievement |
-|:----:|:------------|
-| 🏆 **2021** | **NTSE Scholar** — NCERT · Top 1000 out of 1M+ students · Two-stage national examination |
-| 🔬 **2019** | **State Child Scientist** · Dept. of Science & Technology, Govt. of India · National Children's Science Congress |
-| 📚 **2024** | **96.2% — CBSE Class 12th** · St. Thomas School, Chunar |
 
 <br/>
 
@@ -230,9 +216,6 @@ const naman = {
 `Aug 2024 – May 2028`  
 B.Tech — Expected Graduation: 2028
 
-**🏫 St. Thomas School, Chunar**  
-`Apr 2022 – Mar 2024`  
-CBSE Board — **96.2%**
 
 #### 📜 &nbsp;Certifications
 
