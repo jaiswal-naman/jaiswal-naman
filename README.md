@@ -10,7 +10,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=50&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Researcher;Multi-Agent+Systems+%E2%80%A2+Voice+AI+%E2%80%A2+LLM+Engineering;NTSE+Scholar+%E2%80%A2+State+Child+Scientist+%E2%80%A2+NIT+Rourkela" alt="Typing SVG" /></a>
 
 <br/>
-Portfolio & resume : namanjaiswal.in
+
 [![LinkedIn](https://img.shields.io/badge/-namanjaiswalofficial-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanjaiswalofficial)
 &nbsp;
 [![X](https://img.shields.io/badge/-@Namanjaiswal21-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Namanjaiswal21)
@@ -42,6 +42,7 @@ const naman = {
         intern: "AI Developer @ ThinkingStone — Voice AI & Autonomous Agents",
     },
     education: "B.Tech @ NIT Rourkela (2024-2028)",
+    Portfolio & resume : { namanjaiswal.in }
     expertise: {
         ai_ml: [
             "🧠 Deep Learning & Transformers (PyTorch, TensorFlow)",
