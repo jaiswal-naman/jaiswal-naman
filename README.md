@@ -352,7 +352,7 @@ Class XII — Physics, Chemistry & Mathematics: **96.2%**
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=jaiswal-naman&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&include_all_commits=true" height="170" alt="Naman Jaiswal's GitHub statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=jaiswal-naman&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&include_all_commits=true" height="170" alt="Naman Jaiswal's GitHub statistics"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=jaiswal-naman&hide_border=true&background=00000000&ring=8B5CF6&fire=EC4899&currStreakNum=C9D1D9&currStreakLabel=8B5CF6&sideNums=C9D1D9&sideLabels=06B6D4&dates=888888" height="170" alt="Naman Jaiswal's GitHub contribution streak"/>
 
